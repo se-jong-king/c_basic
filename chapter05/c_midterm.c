@@ -15,7 +15,7 @@
  *     - int, double, char 등등
  *     - 정수형, 실수형 
  *        - 정수형 : short, int, long, longlong %d
- *        - 실수형 : float, double, ... %lf
+ *        - 실수형 : float, double, ... %.lf
  *        - 문자형 : char (' ') %c
  *        - 문자열형 : string (" ") %s
  *        - int 숫자제한 및 음수 양수
